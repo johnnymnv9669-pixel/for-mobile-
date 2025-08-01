@@ -64,10 +64,10 @@
   <div class="swiper">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?export=view&id=13aCX9wuir9R2uLr4CIbY6tNuRvsJ1_hG" alt="Image 1" />
+        <img src="https://drive.google.com/uc?export=view&id=1lvyf_81AygYNH_1THhxcOJG0T8XiNPSh" alt="Image 1" />
       </div>
       <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?export=view&id=1aZfVBZGUHpPlSSabichf_6VlYp0QWWsn" alt="Image 2" />
+        <img src="https://drive.google.com/uc?export=view&id=1W0q2he8eCsvZ6eaNdqY86WUW2ND4hdaH" alt="Image 2" />
       </div>
       <div class="swiper-slide">
         <img src="https://drive.google.com/uc?export=view&id=15D2HE7S6-znCSK3z9UMZM_12HViCriYn" alt="Image 3" />
