@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Donation Mobile UI</title>
+  <title>Donation Gallery</title>
 
   <!-- Swiper CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
@@ -25,7 +25,8 @@
 
     .swiper {
       width: 100%;
-      height: 250px;
+      height: auto;
+      padding-bottom: 30px;
     }
 
     .swiper-slide {
@@ -33,12 +34,19 @@
       justify-content: center;
       align-items: center;
       background-color: #1e2b4a;
+      border-radius: 10px;
+      margin: 10px;
     }
 
     .swiper-slide img {
       width: 90%;
-      height: auto;
+      max-height: 300px;
+      object-fit: contain;
       border-radius: 10px;
+    }
+
+    .swiper-pagination {
+      text-align: center;
     }
 
     @media (max-width: 600px) {
@@ -50,19 +58,19 @@
 </head>
 <body>
 
-  <div class="header">Gifts given in the past</div>
+  <div class="header">Gifts Given in the Past</div>
 
   <!-- Swiper -->
   <div class="swiper">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?export=view&id=13aCX9wuir9R2uLr4CIbY6tNuRvsJ1_hG" alt="ภาพจากไดรฟ์">
+        <img src="https://drive.google.com/uc?export=view&id=13aCX9wuir9R2uLr4CIbY6tNuRvsJ1_hG" alt="Image 1" />
       </div>
       <div class="swiper-slide">
-       <img src="https://drive.google.com/uc?export=view&id=15D2HE7S6-znCSK3z9UMZM_12HViCriYn" alt="ภาพ 1">
+        <img src="https://drive.google.com/uc?export=view&id=1aZfVBZGUHpPlSSabichf_6VlYp0QWWsn" alt="Image 2" />
       </div>
       <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?export=view&id=1aZfVBZGUHpPlSSabichf_6VlYp0QWWsn" alt="ภาพ 2">
+        <img src="https://drive.google.com/uc?export=view&id=15D2HE7S6-znCSK3z9UMZM_12HViCriYn" alt="Image 3" />
       </div>
     </div>
     <!-- Add Pagination -->
