@@ -55,9 +55,15 @@
   <!-- Swiper -->
   <div class="swiper">
     <div class="swiper-wrapper">
-      <div class="swiper-slide"><img src="https://drive.google.com/uc?export=view&id=13aCX9wuir9R2uLr4CIbY6tNuRvsJ1_hG" alt="ภาพจาก Drive" />
-      <div class="swiper-slide"><img src="https://drive.google.com/uc?export=view&id=1aZfVBZGUHpPlSSabichf_6VlYp0QWWsn" alt="ภาพจาก Drive" />
-      <div class="swiper-slide"><img src="https://drive.google.com/uc?export=view&id=15D2HE7S6-znCSK3z9UMZM_12HViCriYn" alt="ภาพจาก Drive" />
+      <div class="swiper-slide">
+        <img src="https://drive.google.com/uc?export=view&id=13aCX9wuir9R2uLr4CIbY6tNuRvsJ1_hG" alt="ภาพ 1" />
+      </div>
+      <div class="swiper-slide">
+        <img src="https://drive.google.com/uc?export=view&id=1aZfVBZGUHpPlSSabichf_6VlYp0QWWsn" alt="ภาพ 2" />
+      </div>
+      <div class="swiper-slide">
+        <img src="https://drive.google.com/uc?export=view&id=15D2HE7S6znCSK3z9UMZM12HViCriYn" alt="ภาพ 3" />
+      </div>
     </div>
     <!-- Add Pagination -->
     <div class="swiper-pagination"></div>
@@ -71,6 +77,7 @@
       loop: true,
       pagination: {
         el: '.swiper-pagination',
+        clickable: true,
       },
     });
   </script>
