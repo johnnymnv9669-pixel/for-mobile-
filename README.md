@@ -55,9 +55,9 @@
   <!-- Swiper -->
   <div class="swiper">
     <div class="swiper-wrapper">
-      <div class="swiper-slide"><img src="https://placekitten.com/400/250" alt="Donation 1"></div>
-      <div class="swiper-slide"><img src="https://placekitten.com/401/250" alt="Donation 2"></div>
-      <div class="swiper-slide"><img src="https://placekitten.com/402/250" alt="Donation 3"></div>
+      <div class="swiper-slide"><img src="https://drive.google.com/file/d/15D2HE7S6-znCSK3z9UMZM_12HViCriYn/view?usp=sharing" alt="Donation 1"></div>
+      <div class="swiper-slide"><img src="[https://placekitten.com/401/250](https://drive.google.com/file/d/1aZfVBZGUHpPlSSabichf_6VlYp0QWWsn/view?usp=sharing)" alt="Donation 2"></div>
+      <div class="swiper-slide"><img src="[https://placekitten.com/402/250](https://drive.google.com/file/d/13aCX9wuir9R2uLr4CIbY6tNuRvsJ1_hG/view?usp=sharing)" alt="Donation 3"></div>
     </div>
     <!-- Add Pagination -->
     <div class="swiper-pagination"></div>
