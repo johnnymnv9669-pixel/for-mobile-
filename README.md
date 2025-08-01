@@ -56,13 +56,13 @@
   <div class="swiper">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?export=view&id=13aCX9wuir9R2uLr4CIbY6tNuRvsJ1_hG" alt="ภาพ 1" />
+        <img src="https://drive.google.com/uc?export=view&id=13aCX9wuir9R2uLr4CIbY6tNuRvsJ1_hG" alt="ภาพจากไดรฟ์">
       </div>
       <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?export=view&id=1aZfVBZGUHpPlSSabichf_6VlYp0QWWsn" alt="ภาพ 2" />
+       <img src="https://drive.google.com/uc?export=view&id=15D2HE7S6-znCSK3z9UMZM_12HViCriYn" alt="ภาพ 1">
       </div>
       <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?export=view&id=15D2HE7S6znCSK3z9UMZM12HViCriYn" alt="ภาพ 3" />
+        <img src="https://drive.google.com/uc?export=view&id=1aZfVBZGUHpPlSSabichf_6VlYp0QWWsn" alt="ภาพ 2">
       </div>
     </div>
     <!-- Add Pagination -->
