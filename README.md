@@ -50,7 +50,7 @@
 </head>
 <body>
 
-  <div class="header">ภาพกิจกรรมโดเนต</div>
+  <div class="header">Gifts given in the past</div>
 
   <!-- Swiper -->
   <div class="swiper">
